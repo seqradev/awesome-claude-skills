@@ -213,6 +213,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [computer-forensics](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/computer-forensics) - Digital forensics analysis and investigation techniques.
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
+- [OpenTaint](https://github.com/seqra/opentaint/tree/main/skills) - OpenTaint AppSec skill pack. AI agents turn security-review findings into reusable taint rules and dependency summaries. Because the engine reuses these rules instead of repeating that expensive work, later scans become fast, deterministic, precise, and thorough.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
 
 ### Assistive Technology
